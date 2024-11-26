@@ -5,6 +5,7 @@
   - [Liquid Staking Competition Set to Heat Up After Shanghai ]( https://xangle.io/en/research/detail/1129),
   - [Exploring Liquid Staking: A Comprehensive Guide to Understanding the Concept](https://xangle.io/en/research/detail/1070),
   - [Circulating Supply: The Canary in the Crypto Mine](https://xangle.io/en/research/detail/1672),
+  - [Omnitia Report](https://xangle.io/en/research/detail/2108), 
   - [The Tokenomics Chronicle](https://xangle.io/en/research/detail/2115)
 <!---
 woogieboogie-jl/woogieboogie-jl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
