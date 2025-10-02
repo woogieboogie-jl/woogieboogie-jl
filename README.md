@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @woogieboogie
-- 🌱 Currently In Blockchain, studied Architectural Engineering and Computer Science, sometimes code to work efficiently
-- 📫 Currently building products at ShardLab, the Innovation Arm of Hashed & a Part-time Dev-Rel-Engineer working on Chainlink
-- Do Research(In-general & PoC Development on DeFi-rel Infrastructures - like LSPs, Tokenomics(Core) staking, Stablecoins etc..) Some of my recent researches articles are:
+- 🌱 Currently In Blockchain, studied Architectural Engineering and Computer Science, started coding to work efficiently
+- 📫 Currently building products at ShardLab, the Innovation Arm of Hashed & a Dev-Rel-Engineer working on Chainlink
+- Did Research(In-general & PoC Development on DeFi-rel Infrastructures - like LSPs, Tokenomics(Core), Staking, Stablecoins etc..) Some of my recent researches articles are:
   - [Liquid Staking Competition Set to Heat Up After Shanghai ]( https://xangle.io/en/research/detail/1129),
   - [Exploring Liquid Staking: A Comprehensive Guide to Understanding the Concept](https://xangle.io/en/research/detail/1070),
   - [Circulating Supply: The Canary in the Crypto Mine](https://xangle.io/en/research/detail/1672),
